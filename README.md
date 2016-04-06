@@ -1,7 +1,7 @@
 SRS-IEEE
 ========
 
-A Latex template for a Software Requirements Specification that respects the IEEE standard
+A Latex template for a Software Requirements Specification that respects the IEEE standards.
 
 ## Credits
 
